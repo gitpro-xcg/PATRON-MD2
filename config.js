@@ -51,7 +51,7 @@ AUTO_TYPING: process.env.AUTO_TYPING || "true",
 // true for automatic show typing   
 READ_CMD: process.env.READ_CMD || "true",
 // true if want mark commands as read 
-DEV: process.env.DEV || "2348133729715",
+DEV: process.env.DEV || "94765606505",
 //replace with your whatsapp number        
 ANTI_VV: process.env.ANTI_VV || "true",
 // true for anti once view 
